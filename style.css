@@ -365,7 +365,7 @@ div#form{
 
 
 div #form input{float: left;}
-#email{
+.email{
 	width: 353px;
 	height: 50px;
 	background: #ededed;
